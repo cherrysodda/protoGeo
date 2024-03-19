@@ -1,4 +1,4 @@
-module studentgit.kata.academy/cherrysoda/go-kata/course4/gRPC/protos
+module github.com/cherrysodda/protoGeo
 
 go 1.22.1
 
